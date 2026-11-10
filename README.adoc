@@ -1,0 +1,13 @@
+= SPLASH test archetype repo
+
+This repository contains demonstration ADL2 templates and archetypes for a discharge summary.
+
+It follows the SPLASH repository structure: one source directory, a shredded (multi-file) 
+form derived from it, and a set of generated directories, each in a form intended for a particular use.
+
+See https://github.com/splashlang/archetypes-reference/blob/main/README.adoc[the SPLASH reference archetype repo^] for a full explanation of the repo structure.
+
+
+
+
+
