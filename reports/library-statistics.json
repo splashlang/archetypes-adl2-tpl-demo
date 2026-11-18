@@ -1,6 +1,6 @@
 {
     "id": "Arch_lib_stats_report",
-    "library_name": "splashform.org-SPLASH-ADL2-TPL",
+    "library_name": "SPLASH-SPLASH-ADL2-TPL",
     "compilation_statistics": {
         "Valid archetypes": 40,
         "Specialised archetypes": 21,
@@ -16,7 +16,7 @@
     },
     "models_reports": {
         "org.openehr:healthcare": {
-            "library_name": "splashform.org-SPLASH-ADL2-TPL",
+            "library_name": "SPLASH-SPLASH-ADL2-TPL",
             "component_name": "org.openehr:healthcare",
             "model_statistics": {
                 "Archetypable nodes": {
