@@ -1,6 +1,6 @@
 {
     "name": "SPLASH-ADL2-TPL",
     "description": "SPLASH ADL2 demonstration template repository",
-    "maintainer": "splashform.org",
-    "maintainer_uri": "http://splashform.org"
+    "issuer": "SPLASH",
+    "issuer_uri": "http://splashform.org"
 }
